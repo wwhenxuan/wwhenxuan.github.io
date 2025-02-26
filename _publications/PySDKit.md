@@ -15,14 +15,14 @@ citation: 'Wenxuan Wang. (2025). "PySDKit: signal decomposition in Python" Githu
 
 A Python library for signal decomposition algorithms 🥳
 
+<img src="../images/PySDKit/Logo_sd.png" alt="logo" style="zoom: 18%;" />
+
+</div>
+
 [Github Page](https://github.com/wwhenxuan/PySDKit) |
 [Installation](#Installation) |
 [Example Script](#Example-Script) |
 [Acknowledgements](#Acknowledgements)
-
-<img src="../images/PySDKit/Logo_sd.png" alt="logo" style="zoom: 18%;" />
-
-</div>
 
 ## Installation 🚀 <a id="Installation"></a>
 
