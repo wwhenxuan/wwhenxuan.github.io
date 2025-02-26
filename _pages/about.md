@@ -11,6 +11,8 @@ I am a senior student in [Xidian University](https://www.xidian.edu.cn/), with s
 
 My research instrests include Time Series Analysis (TSA), Signal Processing, Complex System Modeling, Learning to Optimize (L2O).
 
+![XDU](../images/photos/XDU.jpg)
+
 📝 Publications
 ======
   <ul>{% for post in site.publications %}
