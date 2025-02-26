@@ -3,7 +3,7 @@ title: "PySDKit: signal decomposition in Python"
 collection: "GitHub"
 category: software
 permalink: /publication/PySDKit
-excerpt: "A Python library for signal decomposition algorithms.<br/><img src='../images/PySDKit/Logo_sd.png'>"
+excerpt: "A Python library for signal decomposition algorithms.<br/><img src='../images/PySDKit/social.png'>"
 date: 2025-2-26
 venue: 'February 26'
 slidesurl: 'https://github.com/wwhenxuan/PySDKit'
