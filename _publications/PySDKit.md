@@ -13,12 +13,6 @@ citation: 'Wenxuan Wang. (2025). "PySDKit: signal decomposition in Python" Githu
 
 <div align="center">
 
-[![PyPI version](https://badge.fury.io/py/PySDKit.svg)](https://pypi.org/project/PySDKit/) 
-![License](https://img.shields.io/github/license/wwhenxuan/PySDKit)
-[![Python](https://img.shields.io/badge/python-3.8+-blue?logo=python)](https://www.python.org/)
-[![Downloads](https://pepy.tech/badge/pysdkit)](https://pepy.tech/project/pysdkit)
-[![codestyle](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
 A Python library for signal decomposition algorithms 🥳
 
 [Github Page](https://github.com/wwhenxuan/PySDKit) |
@@ -26,7 +20,7 @@ A Python library for signal decomposition algorithms 🥳
 [Example Script](#Example-Script) |
 [Acknowledgements](#Acknowledgements)
 
-<img src="../images/PySDKit/Logo_sd.png" alt="logo" style="zoom: 12%;" />
+<img src="../images/PySDKit/Logo_sd.png" alt="logo" style="zoom: 18%;" />
 
 </div>
 
