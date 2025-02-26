@@ -39,6 +39,6 @@ The time series foundation model `SymTime` trained with the aforementioned metho
 
 ## Interesting Phenomenon
 
-![TSNE](../images/SymTime/TSNE_Time.png)
+![TSNE](../images/SymTime/TSNE_time.png)
 
 By leveraging contrastive learning that brings positive samples closer while pushing negative samples apart in the **representation space**, our time series encoder effectively captures <u>semantic information</u> from symbolic expressions through cross-modal alignment. As shown in the figure, when feeding time series generated from different symbolic expressions into the untrained encoder, t-SNE visualization reveals disordered distribution. After contrastive pretraining, however, the trained encoder organizes time series of identical symbolic categories into distinct cluster formations through the same procedure. This conclusively demonstrates our encoder's capability to learn symbolic semantics.
