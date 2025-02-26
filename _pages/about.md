@@ -13,7 +13,7 @@ My research instrests include Time Series Analysis (TSA), Signal Processing, Com
 
 ![XDU](../images/photos/XDU.jpg)
 
-📝 Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
