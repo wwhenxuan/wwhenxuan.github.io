@@ -3,7 +3,7 @@ title: "Mitigating Data Scarcity in Time Series Analysis: A Foundation Model wit
 collection: "arXiv preprint"
 category: manuscripts
 permalink: /publication/Mitigating_Data_Scarcity_in_Time_Series_Analysis
-excerpt: 'We pre-trained the time series base model on a large-scale synthetic dataset and achieved SOTA performance on five major time series analysis tasks.<br/><img src='../images/SymTime/S2Generator_and_SymTime.png'>'
+excerpt: "We pre-trained the time series base model on a large-scale synthetic dataset and achieved SOTA performance on five major time series analysis tasks.<br/><img src='../images/SymTime/S2Generator_and_SymTime.png'>"
 date: 2025-2-25
 venue: 'February 25'
 slidesurl: 'https://arxiv.org/abs/2502.15466'
