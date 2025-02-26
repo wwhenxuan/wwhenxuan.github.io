@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Whenxuan / Personal Pages"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Wenxuan Wang"
 description              : &description "personal description"
 url                      : "https://wwhenxuan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "photo.png"
   name             : "whenxuan"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/him"
   bio              : "In order to be lazy, you must work very hard!"
   location         : "Xi'an, Shannxi, China"
   employer         : "Xidian University"
@@ -83,6 +83,8 @@ publication_category:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  software:
+    title: 'Open Source Software'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
