@@ -2,7 +2,7 @@
 title: "Mitigating Data Scarcity in Time Series Analysis: A Foundation Model with Series-Symbol Data Generation"
 collection: "arXiv preprint"
 category: manuscripts
-permalink: /publication/2025-2-25-Mitigating_Data_Scarcity_in_Time_Series_Analysis
+permalink: /publication/Mitigating_Data_Scarcity_in_Time_Series_Analysis
 excerpt: 'We pre-trained the time series base model on a large-scale synthetic dataset and achieved SOTA performance on five major time series analysis tasks.'
 date: 2025-2-25
 venue: 'February 25'
