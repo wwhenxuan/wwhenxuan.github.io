@@ -10,8 +10,7 @@ tags:
 paperurl: 'https://www.nature.com/articles/s41467-024-46598-w'
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
+This article reduces the dimensionality of high-dimensional complex systems through manifold learning and delayed embedding methods, and realizes the modeling and prediction of the complex system in low-dimensional space.<br/><img src='../images/SymTime/S2Generator_and_SymTime.png'>
 > Received: 11 November 2023
 > 
 > Accepted: 4 March 2024
