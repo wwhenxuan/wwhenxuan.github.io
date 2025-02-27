@@ -10,12 +10,13 @@ tags:
 paperurl: 'https://www.nature.com/articles/s41467-024-46598-w'
 ---
 
-This article reduces the dimensionality of high-dimensional complex systems through manifold learning and delayed embedding methods, and realizes the modeling and prediction of the complex system in low-dimensional space.<br/><img src='../images/SymTime/S2Generator_and_SymTime.png'>
-> Received: 11 November 2023
-> 
-> Accepted: 4 March 2024
+This article reduces the dimensionality of high-dimensional complex systems through manifold learning and delayed embedding methods, and realizes the modeling and prediction of the complex system in low-dimensional space.<br/><img src='../images/blogs/2025-2-27-predicting-multiple-observations/cover.png'>
 
 ## Abstract
+
+> Received: 11 November 2023
+>
+> Accepted: 4 March 2024
 
 Forecasting all components in complex systems is an open and challenging task, possibly due to high dimensionality and undesirable predictors. 
 We bridge this gap by proposing a data-driven and model-free framework, namely, feature-and-reconstructed manifold mapping (FRMM), 
