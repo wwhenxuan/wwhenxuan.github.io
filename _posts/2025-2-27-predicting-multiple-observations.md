@@ -2,7 +2,7 @@
 title: 'Predicting multiple observations in complex systems through low-dimensional embeddings'
 date: 2025-02-27
 category: nature
-permalink: /posts/[2025-2-27-predicting-multiple-observations.md](2025-2-27-predicting-multiple-observations.md)
+permalink: /posts/2025-2-27-predicting-multiple-observations.md
 tags:
   - Nature Communications
   - Complex Systems Modeling
