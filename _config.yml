@@ -86,6 +86,10 @@ publication_category:
   software:
     title: 'Open Source Software'
 
+blog_category:
+  nature:
+    title: 'Nature'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[//]: # (* Ph.D in Version Control Theory, GitHub University, 2018 &#40;expected&#41;)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[//]: # (* M.S. in Jekyll, GitHub University, 2014)
+B.S. in Intelligent Science and Technology, [Xidian University](https://www.xidian.edu.cn/), with school of Artificial Intelligence, 2025
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[//]: # (Work experience)
+
+[//]: # (======)
+
+[//]: # (* Spring 2024: Academic Pages Collaborator)
+
+[//]: # (  * GitHub University)
+
+[//]: # (  * Duties includes: Updates and improvements to template)
+
+[//]: # (  * Supervisor: The Users)
   
 Skills
 ======
@@ -51,12 +48,6 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
