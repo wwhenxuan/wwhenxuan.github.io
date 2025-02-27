@@ -34,6 +34,7 @@ Skills
 * Programming with Python, C, C++, R and Matlab
 * Machine learning with Scikit-learn
 * Deep Learning with PyTorch
+* Data Visualization with Matplotlib and ggplot2
 
 Publications
 ======

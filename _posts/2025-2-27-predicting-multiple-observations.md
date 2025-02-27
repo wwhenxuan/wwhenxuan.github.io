@@ -2,7 +2,8 @@
 title: 'Predicting multiple observations in complex systems through low-dimensional embeddings'
 date: 2025-02-27
 category: nature
-permalink: /posts/2025-2-27-predicting-multiple-observations.md
+permalink: /posts/2025-2-27-predicting-multiple-observations
+excerpt: "This article reduces the dimensionality of high-dimensional complex systems through manifold learning and delayed embedding methods, and realizes the modeling and prediction of the complex system in low-dimensional space.<br/><img src='../images/blogs/2025-2-27-predicting-multiple-observations/cover.png'>"
 tags:
   - Nature Communications
   - Complex Systems Modeling
