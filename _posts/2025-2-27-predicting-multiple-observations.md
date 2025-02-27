@@ -1,15 +1,20 @@
 ---
-title: 'Blog Post number 2'
+title: 'Predicting multiple observations in complex systems through low-dimensional embeddings'
 date: 2013-08-14
 category: nature
 permalink: /posts/2013/08/blog-post-2/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Nature Communications
+  - Complex Systems Modeling
+  - Machine Learning
+paperurl: 'https://www.nature.com/articles/s41467-024-46598-w'
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+> Received: 11 November 2023
+> Accepted: 4 March 2024
+> 
 
 Headings are cool
 ======
