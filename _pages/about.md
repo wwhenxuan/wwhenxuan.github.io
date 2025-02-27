@@ -20,3 +20,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Blog Posts
+======
+  <ul>{% for post in site.posts reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

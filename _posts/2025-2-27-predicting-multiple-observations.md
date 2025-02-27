@@ -25,3 +25,4 @@ For a high-dimensional dynamical system, FRMM finds its topologically equivalent
 The substantial potential of FRMM is shown for both representative models and real-world data involving Indian monsoon, electroencephalogram (EEG) signals, foreign exchange market, and traffic speed in Los Angeles Country. 
 FRMM overcomes the curse of dimensionality and finds a generalized predictor, and thus has potential for applications in many other real-world systems.
 
+> 核心观点：高维复杂系统中通常包含大量的冗余信息，其基本动力学规则或结构可以通过低维系统来表征。
