@@ -1,8 +1,8 @@
 ---
 title: 'Predicting multiple observations in complex systems through low-dimensional embeddings'
-date: 2013-08-14
+date: 2025-02-27
 category: nature
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/
 tags:
   - Nature Communications
   - Complex Systems Modeling
@@ -14,7 +14,6 @@ This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum
 
 > Received: 11 November 2023
 > Accepted: 4 March 2024
-> 
 
 Headings are cool
 ======
