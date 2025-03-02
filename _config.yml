@@ -89,6 +89,8 @@ publication_category:
 blog_category:
   nature:
     title: 'Nature'
+  time:
+    title: 'Time Series Analysis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
