@@ -47,3 +47,16 @@ We introduce Chronos, a simple yet effective framework for **pretrained probabil
 $$
 \tilde{x}_i = \frac{(x_i - m)}{s}, \ m=0, \ s=\frac{1}{C}\sum_{i=1}^{C}|x_i|
 $$
+**Quantization：**在合适
+
+
+
+
+
+
+
+
+
+
+
+![Gaussian](..\images\blogs\2025-3-5-Chronos\Gaussian)
