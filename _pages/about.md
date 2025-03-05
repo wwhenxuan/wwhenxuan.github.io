@@ -23,6 +23,7 @@ Publications
 
 Blog Posts
 ======
+My blog will introduce you to papers on complex system modeling published in Nature, top conference on time series analysis, and some interesting points.
   <ul>{% for post in site.posts reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
