@@ -65,7 +65,7 @@ Scaling laws offer valuable insights into the design of time series foundation m
 1. Moriai：encoder-only
 2. Chornos：decoder-only
 
-这篇文章的整体工作蓝很大探究了$10^3$到$10^8$量级的模型效果，使用的优化器是AdamW，模型训练的batch size为128，使用的动态学习率调整方式为cosine learning rate adjust，最后模型学习和输出的是一个混合分布。
+这篇文章的整体工作蓝很大探究了$$10^3$$到$$10^8$$量级的模型效果，使用的优化器是AdamW，模型训练的batch size为128，使用的动态学习率调整方式为cosine learning rate adjust，最后模型学习和输出的是一个混合分布。
 
 ## 对Encoder-Only缩放定理研究
 
