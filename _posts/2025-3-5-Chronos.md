@@ -44,10 +44,14 @@ We introduce Chronos, a simple yet effective framework for **pretrained probabil
 ### Time Series Tokenization
 
 **Scaling：**由于直接编码过大的数值空间是否具有难度，比如正无穷到负无穷，因此要做的第一件事就是对时间序列数据进行缩放，其实也就是所谓的标准化或归一化。我们将一段时间序列从原本的值域中缩放到一个合适的量化范围中，本文使用的方法为
+
+
 $$
 \tilde{x}_i = \frac{(x_i - m)}{s}, \ m=0, \ s=\frac{1}{C}\sum_{i=1}^{C}|x_i|
 $$
-**Quantization：**在合适
+
+
+**Quantization：**在合适的范围内，Chronos对特定的一片数值范围进行编码，如果这段数据范围能够确定到小数点好几位，那么通过近似的方法，我们就认为
 
 
 
