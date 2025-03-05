@@ -1,5 +1,5 @@
 ---
-title: '[ICLR2025] Towards Neural Scaling Laws for Time Series Foundation Models'
+title: '[ICLR 2025] Towards Neural Scaling Laws for Time Series Foundation Models'
 date: 2025-03-02
 category: time
 permalink: /posts/2025-3-2-Towards-Neural-Scaling-Laws-for-Time-Series-Foundation-Models
