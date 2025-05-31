@@ -36,6 +36,12 @@ Skills
 * Deep Learning with PyTorch
 * Data Visualization with Matplotlib and ggplot2
 
+Awards
+======
+* 2021-2022 Third-class Scholarship
+* 2022-2023 First-class Scholarship, School-level Outstanding Student Title 
+* 2023-2024 National Scholarship, School-level Outstanding Student Title
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
