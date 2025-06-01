@@ -1,5 +1,5 @@
 ---
-title: "Xi'an Saige Parrot🦜"
+title: "Saige Parrot🦜"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/nikon/赛格鹦鹉.jpg'>"
 collection: photography
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Xi'an Daming Palace🌷"
+title: "Daming Palace✨"
 excerpt: "Xi'an Daming Palace.<br/><img src='/images/nikon/大明宫人像1.jpg'>"
 collection: photography
 ---

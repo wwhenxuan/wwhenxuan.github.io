@@ -1,5 +1,5 @@
 ---
-title: "Xi'an Xingqing Palace🌷"
+title: "Xingqing Palace🌷"
 excerpt: "Xi'an Xingqing Palace.<br/><img src='/images/nikon/兴庆宫cat.jpg'>"
 collection: photography
 ---
