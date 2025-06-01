@@ -1,6 +1,6 @@
 ---
-title: "Xi'an Bell Tower🌆"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/nikon/钟楼-古今同框.jpg'>"
+title: "Xi'an Bell Tower⏰"
+excerpt: "Xi'an is Northwest China's most developed city, and likely its most historically and culturally significant after Beijing. The Bell Tower stands at its center. This photo, taken southward from Anyuan Gate on the city wall, captures the famous Central Axis. The Bell Tower ahead and the distant TV Tower create a classic juxtaposition of old and new.<br/><img src='/images/nikon/钟楼-古今同框.jpg'>"
 collection: photography
 ---
 
