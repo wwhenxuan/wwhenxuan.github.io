@@ -12,6 +12,7 @@ redirect_from:
 
 ## Xi'an Bell Tower🌆
 
+![bell_tower](../images/nikon/钟楼-古今同框.jpg)
 
 ## Birds🦜
 
