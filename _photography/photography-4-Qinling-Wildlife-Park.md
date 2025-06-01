@@ -1,6 +1,6 @@
 ---
 title: "Qinling Wildlife Park🦌"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/nikon/DSC_2480.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/nikon/秦岭野生动物园-火烈鸟.jpg'>"
 collection: photography
 ---
 
