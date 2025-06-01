@@ -1,5 +1,5 @@
 ---
-title: "Dreamland Anime Exhibition Free Travel🌷"
+title: "Dreamland Anime Exhibition Free Travel🤩"
 excerpt: "Dreamland Anime Exhibition Free Travel<br/><img src='/images/nikon/忘归人.jpg'>"
 collection: photography
 ---
