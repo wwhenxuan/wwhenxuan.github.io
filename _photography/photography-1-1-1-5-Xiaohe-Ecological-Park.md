@@ -1,6 +1,6 @@
 ---
 title: "Xiaohe Ecological Park💧"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/nikon/洨河dog.jpg'>"
+excerpt: "This was when I had just bought a camera. My friend and I went to the Xiaohe Ecological Scenic Area to take photos. The riverside in spring is very interesting. In a city like Xi'an where life is stressful, it is really pleasant to go to the riverside with family to camp during the weekend. We met a big brother who raised three Border Collies, black, gray and brown, but their body shapes are almost the same except for the color. I feel very lucky to be able to take a photo with very vivid light and shadow when they are full of energy.<br/><img src='/images/nikon/洨河dog.jpg'>"
 collection: photography
 ---
 
