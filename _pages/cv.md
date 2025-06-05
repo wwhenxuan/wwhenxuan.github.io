@@ -38,10 +38,12 @@ Skills
 
 Awards
 ======
-* 2024-2025 Graduate Special Scholarship, School-level Outstanding Graduate Model (First in Major)
-* 2023-2024 National Scholarship, School-level Outstanding Student Title
-* 2022-2023 First-class Scholarship, School-level Outstanding Student Title
-* 2021-2022 Third-class Scholarship
+* 2024-2025 Graduate Special Scholarship, School-level Outstanding Graduate Model (First in Major, 1/165);
+* 2023-2024 National Scholarship, School-level Outstanding Student Title;
+* 2023-2024 [Xiaomi](https://gongyi.mi.com/foundation#/home) Scholarship: 5,000 RMB (Only one place available in the school of AI);
+* 2022-2023 First-class Scholarship, School-level Outstanding Student Title;
+* 2022-2023 [Song Qingling Future](https://www.sclf.org/gyxmx/gzxmz/sqlwlzxj/) Scholarship: 5,000 RMB;
+* 2021-2022 Third-class Scholarship;
 
 Publications
 ======
