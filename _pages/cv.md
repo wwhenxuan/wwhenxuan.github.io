@@ -35,6 +35,7 @@ Skills
 * Machine learning with Scikit-learn
 * Deep Learning with PyTorch
 * Data Visualization with Matplotlib and ggplot2
+* Fine-tune or deploy large language models and build knowledge graphs and RAG
 
 Awards
 ======
