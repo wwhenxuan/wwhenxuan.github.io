@@ -1,5 +1,5 @@
 ---
-title: "The Taking off Cyanopica Cyanus🏢"
+title: "The Taking off Cyanopica Cyanus🐦‍⬛"
 excerpt: "Office building on Keji Road<br/><img src='/images/nikon/灰喜鹊1.jpg'>"
 collection: photography
 ---

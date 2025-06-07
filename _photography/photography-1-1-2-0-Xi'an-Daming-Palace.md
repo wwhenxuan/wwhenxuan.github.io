@@ -1,6 +1,6 @@
 ---
 title: "Daming Palace✨"
-excerpt: "Xi'an Daming Palace.<br/><img src='/images/nikon/大明宫人像1.jpg'>"
+excerpt: "I personally think Daming Palace in Xi'an is a very interesting place. The park is very large and not crowded, which is very suitable for a slow pace of life. I like to go here in March every year to see the cherry blossoms or watch others fishing.<br/><img src='/images/nikon/大明宫人像1.jpg'>"
 collection: photography
 ---
 
