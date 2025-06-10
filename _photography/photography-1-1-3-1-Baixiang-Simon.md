@@ -1,6 +1,6 @@
 ---
 title: "Bai Xiang and Simon in The Graduation Frame🫡"
-excerpt: "Bai Xiang and Simon in The Graduation Frame<br/><img src='/images/nikon/柏翔=西蒙合照.jpg'>"
+excerpt: "Bai Xiang and Simon in The Graduation Frame<br/><img src='/images/nikon/柏翔-西蒙合照.jpg'>"
 collection: photography
 ---
 
