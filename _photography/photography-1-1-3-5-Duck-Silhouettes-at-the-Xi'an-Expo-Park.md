@@ -1,6 +1,6 @@
 ---
 title: "Duck Silhouettes at the Xi'an Expo Park🦆"
-excerpt: "Duck Silhouettes<br/><img src='/images/nikon/西安世博园-锦绣湖-鸭子剪影.jpg'>"
+excerpt: "Duck Silhouetes<br/><img src='/images/nikon/西安世博园-锦绣湖-鸭子剪影.jpg'>"
 collection: photography
 ---
 
