@@ -16,7 +16,7 @@ Education
 
 [//]: # (* M.S. in Jekyll, GitHub University, 2014)
 B.S. in Intelligent Science and Technology, [Xidian University](https://www.xidian.edu.cn/), with school of Artificial Intelligence, 2021-2025.
-M.S. in Information and Communication Engineering, [Xidian University](https://www.xidian.edu.cn/), with school of Communication, 2025
+M.S. in Information and Communication Engineering, [Xidian University](https://www.xidian.edu.cn/), with school of Communication, 2025.
 
 [//]: # (Work experience)
 
@@ -40,7 +40,7 @@ Skills
 
 Awards
 ======
-* 2025 Outstanding Undergraduate Paper (the only one in the major, 60 in the whole school)
+* 2025 Outstanding Undergraduate Paper (the only one in the major, 60 in the whole school) [[link]()];
 * 2024-2025 Graduate Special Scholarship, School-level Outstanding Graduate Model (First in Major, 1/165);
 * 2023-2024 National Scholarship, School-level Outstanding Student Title;
 * 2023-2024 [Xiaomi](https://gongyi.mi.com/foundation#/home) Scholarship: 5,000 RMB (Only one place available in the school of AI);
