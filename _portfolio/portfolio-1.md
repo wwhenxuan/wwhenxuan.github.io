@@ -1,6 +1,6 @@
 ---
-title: "Xi'an Bell Tower🌆"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Undergraduate Graduation Ceremony🎓"
+excerpt: "Undergraduate Graduation Ceremony<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
