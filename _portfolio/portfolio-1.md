@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate Graduation Ceremony🎓"
-excerpt: "Undergraduate Graduation Ceremony<br/><img src='/images/500x300.png'>"
+excerpt: "Undergraduate Graduation Ceremony<br/><img src='/images/photos/毕业典礼.jpg'>"
 collection: portfolioAdd commentMore actions
 ---
 
