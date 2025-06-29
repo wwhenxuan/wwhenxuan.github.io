@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 [//]: # (I am a senior student in [Xidian University]&#40;https://www.xidian.edu.cn/&#41;, with school of Artifical Intelligence.)
-I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in School of Telecommunications Engineering.
+I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in the School of Telecommunications Engineering.
 
 My research interests include Time Series Analysis (TSA), Signal Processing, Complex System Modeling and Symbolic Regression.
 
