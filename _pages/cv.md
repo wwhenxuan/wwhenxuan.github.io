@@ -17,7 +17,7 @@ Education
 [//]: # (* M.S. in Jekyll, GitHub University, 2014)
 B.S. in Intelligent Science and Technology, [Xidian University](https://www.xidian.edu.cn/), with school of Artificial Intelligence, 2021-2025.
 
-M.S. in Information and Communication Engineering, [Xidian University](https://www.xidian.edu.cn/), with school of Communication, 2025.
+M.S. in Information and Communication Engineering, [Xidian University](https://www.xidian.edu.cn/), with school of Telecommunications Engineering, 2025.
 
 [//]: # (Work experience)
 
