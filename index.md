@@ -10,6 +10,10 @@ I graduated from the School of Artificial Intelligence in [Xidian University](ht
 
 ## 🔍 Research Interests
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Time+Series+Analysis+(TSA);Nonlinear+Dynamics+and+Chaos;Symbolic+Regression+(Scientific+Discovery);Signal+Processing+(Decompsition);M.S.+%40+Xidian+University&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
+</p>
+
 My current research interests focus on deep learning based **Time Series Analysis (TSA)** and Modern Signal Processing.
 I am passionate about building time series foundation models because I believe time series are external representations of complex dynamical systems, and we are able to distil relevant insights about the real physical world from the models. 
 Subsequently, my research work will gradually transition from traditional TSA to **Complex Systems Modeling** and **Scientific Discovery**.
