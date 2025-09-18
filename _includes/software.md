@@ -1,6 +1,6 @@
 ## 🔧 Open Source Software
 
-<div class="software">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.software.main %}
