@@ -1,12 +1,12 @@
 main:
 
   - title: "Synthetic Series-Symbol Data Generation for Time Series Foundation Models"
-    authors: <strong>Wenxuan Wang</strong>, Kai Wu, Yujian Betterest Li, Dan Wang, Xiaoyu Zhang
+    authors: <strong>Wenxuan Wang</strong>, Kai Wu#, Yujian Betterest Li, Dan Wang#, Xiaoyu Zhang
     conference_short: NeurIPS
     conference: Annual Conference on Neural Information Processing Systems, 2025.
+    image: ./assets/img/symtime.png
     pdf: https://arxiv.org/abs/2502.15466
     code: https://github.com/wwhenxuan/S2Generator
 #    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
-    image: ./assets/img/SymTime.png
 #    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
     notes: NeurIPS, CCF A, Accepted
