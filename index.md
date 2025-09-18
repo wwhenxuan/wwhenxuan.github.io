@@ -2,21 +2,18 @@
 layout: homepage
 ---
 
-## About Me
+## 👋 About Me
 
-I am a Ph.D. student at ...
+I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in the School of Telecommunications Engineering and a member of the State Key Laboratory of Integrated Services Networks.
 
-## Research Interests
+## 🔍 Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Time Series Analysis (TSA) with deep learning methods, Signal Processing, Complex System Modeling and Symbolic Regression (Scientific Discovery).
 
-## News
+## 🔥 News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2025]** My undergraduate thesis was rated as an outstanding thesis of Xidian University.
+- **[Oct. 2024]** PySDKit
 
 {% include_relative _includes/publications.md %}
 
