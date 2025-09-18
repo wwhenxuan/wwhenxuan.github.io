@@ -18,6 +18,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 🔥 News
 
+- **[Sep. 2025]** Our paper "**[*SymTime*](https://arxiv.org/abs/2502.15466)**: Synthetic Series-Symbol Data Generation for Time Series Foundation Models" has been accepted by **NeurIPS 2025**.
 - **[Jun. 2025]** My undergraduate thesis was rated as an outstanding thesis of Xidian University.
 - **[May  2024]** I have been awarded the Graduate Special Scholarship and Outstanding Graduate Title.
 - **[Oct. 2024]** [PySDKit](https://github.com/wwhenxuan/PySDKit): We have developed and open-sourced the first integrated Python library for signal decomposition.
