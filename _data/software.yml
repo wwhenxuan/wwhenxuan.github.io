@@ -1,0 +1,10 @@
+main:
+
+  - title: "PySDKit: signal decomposition in Python"
+    authors: wwhenxuan, changewam, josefinez, feng1m8
+    conference_short: Python
+    image: ./assets/img/pysdkit.png
+    pypi: https://pypi.org/project/PySDKit/
+    code: https://github.com/wwhenxuan/PySDKit
+    blog: https://mp.weixin.qq.com/s/zRP9bDh9bfcyETdzPxeqOQ
+    notes: EMD, EWT, VMD, SSA, STL, etc.
