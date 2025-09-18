@@ -1,22 +1,123 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "TAB: Unified Benchmarking of Time Series Anomaly Detection Methods"
+    authors: <strong>Xiangfei Qiu</strong>, Zhe Li, Wanghui Qiu, Shiyan Hu, Lekui Zhou, Xingjian Wu, Zhengyu Li Chenjuan Guo, Aoying Zhou, Zhenli Sheng, Jilin Hu, Christian S. Jensen, Bin Yang
+    conference_short: PVLDB
+    conference: International Conference on Very Large Databases, 2025.
+    pdf: https://arxiv.org/pdf/2506.18046
+    code: https://github.com/decisionintelligence/TAB
+#    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
+    image: ./assets/img/TAB.png
+#    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
+    notes: PVLDB, CCF A, Accepted
+        
+  - title: "K2VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting"
+    authors: Xingjian Wu*, <strong>Xiangfei Qiu*</strong>, Hongfan Gao, Jilin Hu, Chenjuan Guo, Bin Yang#
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2025.
+    pdf: https://arxiv.org/pdf/2505.23017
+    code: https://github.com/decisionintelligence/K2VAE
+#    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
+    image: ./assets/img/k2vae.png
+#    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
+    notes: ICML, CCF A, Accepted (Spotlight)
+    
+  - title: "CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching"
+    authors: Xingjian Wu, <strong>Xiangfei Qiu</strong>, Zhengyu Li, Yihang Wang, Jilin Hu, Chenjuan Guo, Hui Xiong, Bin Yang#
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
+    pdf: https://arxiv.org/pdf/2410.12261
+    image: ./assets/img/CATCH.png
+    code: https://github.com/decisionintelligence/CATCH
+    blog: https://mp.weixin.qq.com/s/zhAp-texiJFnUFduJx8fgQ
+    notes: ICLR, Core A*, Accepted
+    
+  - title: "EasyTime: Time Series Forecasting Made Easy"
+    authors: <strong>Xiangfei Qiu*</strong>, Xiuwen Li*, Ruiyang Pang*, Zhicheng Pan*, Xingjian Wu*, Liu Yang*, Jilin Hu, Yang Shu, Xuesong Lu, Chengcheng Yang, Chenjuan Guo, Aoying Zhou, Christian S. Jensen and Bin Yang.
+    conference_short: ICDE
+    conference: IEEE International Conference on Data Engineering, 2025.
+    image: ./assets/img/EasyTime.png
+    pdf: https://arxiv.org/pdf/2412.17603
+    notes: ICDE, CCF A, Accepted
+    
+  - title: "DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting"
+    authors: <strong>Xiangfei Qiu</strong>, Xingjian Wu, Yan Lin, Chenjuan Guo, Jilin Hu#, Bin Yang
+    conference_short: SIGKDD
+    conference: ACM Knowledge Discovery and Data Mining, 2025.
+    image: ./assets/img/duet.png
+    pdf: https://arxiv.org/pdf/2412.10859
+    code: https://github.com/decisionintelligence/DUET
+    bibtex: https://dblp.org/rec/conf/kdd/QiuW0GH025.html?view=bibtex
+    blog: https://mp.weixin.qq.com/s/Yx9UJGFbU54QUwmYBbhr7w
+    notes: SIGKDD, CCF A, Accepted
+    
+  - title: "TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting"
+    authors: Zhe Li, <strong>Xiangfei Qiu</strong>, Peng Chen, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S. Jensen, Bin Yang
+    conference_short: SIGKDD
+    conference: ACM Knowledge Discovery and Data Mining, 2025.
+    pdf: https://arxiv.org/pdf/2410.11802
+    code: https://github.com/decisionintelligence/TSFM-Bench
+    blog: https://mp.weixin.qq.com/s/VhF9Xyt6e-XS5ervaA7tkA
+    image: ./assets/img/FoundTS.png
+    notes: SIGKDD, CCF A, Accepted
+    
+  - title: "SSD-TS: Exploring the potential of linear state space models for diffusion models in time series imputation"
+    authors: Hongfan Gao, Wangmeng Shen, <strong>Xiangfei Qiu</strong>, Ronghui Xu, Jilin Hu#, Bin Yang
+    conference_short: SIGKDD
+    conference: ACM Knowledge Discovery and Data Mining, 2025.
+    pdf: https://arxiv.org/pdf/2410.13338
+    code: https://github.com/decisionintelligence/SSD-TS
+#    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FHf5dj7CBUYJ:scholar.google.com/&output=citation&scisdr=ClFkAvjDEJiXx6UI2Ng:AFWwaeYAAAAAZxUOwNjD9zgPCZrdbAjv7RZeJk8&scisig=AFWwaeYAAAAAZxUOwJjJItMlSyJSMA2TgXj8fkw&scisf=4&ct=citation&cd=-1
+    image: ./assets/img/DiffImp.png
+    notes: SIGKDD, CCF A, Accepted
+    
+  - title: "TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods"
+    authors: <strong>Xiangfei Qiu</strong>, Jilin Hu#, Lekui Zhou, Xingjian Wu, Junyang Du, Buang Zhang, Chenjuan Guo, Aoying Zhou, Christian S. Jensen, Zhenli Sheng, Bin Yang
+    conference_short: PVLDB
+    conference: International Conference on Very Large Databases, 2024.
+    pdf: https://arxiv.org/pdf/2403.20150
+    code: https://github.com/decisionintelligence/TFB
+    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
+    image: ./assets/img/TFB.png
+    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
+    notes: PVLDB, CCF A, Accepted (Best Paper Award Nomination)
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "AutoCTS++: zero-shot joint neural architecture and hyperparameter search for correlated time series forecasting"
+    authors: Xinle Wu, Xingjian Wu, Bin Yang#, Lekui Zhou, Chenjuan Guo, <strong>Xiangfei Qiu</strong>, Jilin Hu, Zhenli Sheng, Christian S. Jensen
+    conference_short: VLDBJ
+    conference: VLDB Journal, 2024.
+    pdf: https://vbn.aau.dk/ws/portalfiles/portal/730426496/AutoCTS_.pdf
+    code: https://github.com/decisionintelligence/AutoCTS_plusplus
+    blog: https://mp.weixin.qq.com/s/bh_gjodiXlwvF7DBi_itZw
+    bibtex: https://dblp.org/rec/journals/vldb/WuWYZGQHSJ24.html?view=bibtex
+    notes: VLDBJ, CCF A, Accepted
+    image: ./assets/img/AutoCTS++.png
+    
+
+  - title: "Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline"
+    authors: Xvyuan Liu*, <strong>Xiangfei Qiu*</strong>, Xingjian Wu, Zhengyu Li, Chenjuan Guo, Jilin Hu, Bin Yang
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2505.11250
+#    code: https://github.com/decisionintelligence/CS4TS
+#    blog: https://mp.weixin.qq.com/s/W2MwOZKKrD2Lj5wOgBLz0Q
+    image: ./assets/img/APN.png
+    
+    
+  - title: "A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective"
+    authors: <strong>Xiangfei Qiu</strong>, Hanyin Cheng, Xingjian Wu, Jilin Hu, Chenjuan Guo, Bin Yang
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2502.10721
+    code: https://github.com/decisionintelligence/CS4TS
+    blog: https://mp.weixin.qq.com/s/W2MwOZKKrD2Lj5wOgBLz0Q
+    image: ./assets/img/CS4TS.png
+#    notes: Accepted
+    
+  - title: "MultiRC: Joint Learning for Time Series Anomaly Prediction and Detection with Multi-scale Reconstructive Contrast"
+    authors: Shiyan Hu, Kai Zhao, <strong>Xiangfei Qiu</strong>, Yang Shu, Jilin Hu, Bin Yang, Chenjuan Guo#
+    conference_short: arXiv
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/abs/2410.15997
+    blog: https://mp.weixin.qq.com/s/u-0mqxrm6EqlGkNx5thTPQ
+    image: ./assets/img/MultiRC.png
