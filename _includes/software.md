@@ -1,18 +1,18 @@
-<h2 id="open_source_software" style="margin: 2px 0px -15px;">Open Source Software</h2>
+## 🔧 Open Source Software
 
-<div class="open_source_software">
+<div class="software">
 <ol class="bibliography">
 
-{% for link in site.data.open_source_software.main %}
+{% for link in site.data.software.main %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -32,6 +32,24 @@
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+      {% if link.poster %} 
+      <a href="{{ link.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      {% endif %}
+      {% if link.slides %} 
+      <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      {% endif %}
+      {% if link.blog %} 
+      <a href="{{ link.blog }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
+      {% endif %}
+      {% if link.video %} 
+      <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      {% endif %}
+      {% if link.dataset %} 
+      <a href="{{ link.dataset }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
+      {% endif %}
+      {% if link.model %} 
+      <a href="{{ link.model }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
