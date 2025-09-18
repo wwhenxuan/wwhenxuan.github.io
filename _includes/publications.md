@@ -1,4 +1,4 @@
-<!-- ## 📝 Publications & Preprints
+## 📝 Publications & Preprints
 
 <div class="publications">
 <ol class="bibliography">
@@ -66,4 +66,4 @@
 {% endfor %}
 
 </ol>
-</div> -->
+</div>
