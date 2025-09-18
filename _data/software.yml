@@ -1,11 +1,21 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+#   - title: "TAB: Unified Benchmarking of Time Series Anomaly Detection Methods"
+#     authors: <strong>Xiangfei Qiu</strong>, Zhe Li, Wanghui Qiu, Shiyan Hu, Lekui Zhou, Xingjian Wu, Zhengyu Li Chenjuan Guo, Aoying Zhou, Zhenli Sheng, Jilin Hu, Christian S. Jensen, Bin Yang
+#     conference_short: PVLDB
+#     conference: International Conference on Very Large Databases, 2025.
+#     pdf: https://arxiv.org/pdf/2506.18046
+#     code: https://github.com/decisionintelligence/TAB
+# #    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
+#     image: ./assets/img/teaser_example.png
+# #    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
+#     notes: PVLDB, CCF A, Accepted
+
+  - title: "PySDKit: signal decomposition in Python"
+    authors: wwhenxuan, changewam, josefinez, feng1m8
+    conference_short: Python
+    image: ./assets/img/pysdkit.png
+    pypi: https://pypi.org/project/PySDKit/
+    code: https://github.com/wwhenxuan/PySDKit
+    blog: https://mp.weixin.qq.com/s/zRP9bDh9bfcyETdzPxeqOQ
+    notes: EMD, EWT, VMD, SSA, STL, etc.
