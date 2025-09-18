@@ -8,4 +8,4 @@ main:
     pypi: https://pypi.org/project/PySDKit/
     code: https://github.com/wwhenxuan/PySDKit
     blog: https://mp.weixin.qq.com/s/zRP9bDh9bfcyETdzPxeqOQ
-    notes: pip install pysdkit
+    notes: pip install pysdkit ![](https://img.shields.io/github/stars/wwhenxuan/PySDKit)

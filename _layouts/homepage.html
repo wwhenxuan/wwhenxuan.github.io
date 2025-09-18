@@ -53,6 +53,10 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
+        {% if site.location %}
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.location }}</autocolor></a>
+        <br>
+        {% endif %}
         {% if site.email %}
         <email>Email: {{ site.email }}</email>
         {% endif %}

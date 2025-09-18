@@ -4,7 +4,7 @@ layout: homepage
 
 ## 👋 About Me
 
-I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in the School of Telecommunications Engineering and a member of the State Key Laboratory of Integrated Services Networks.
+I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in the School of Telecommunications Engineering (a member of the State Key Laboratory of Integrated Services Networks).
 
 
 
@@ -19,8 +19,9 @@ Subsequently, my research work will gradually transition from traditional TSA to
 ## 🔥 News
 
 - **[Jun. 2025]** My undergraduate thesis was rated as an outstanding thesis of Xidian University.
+- **[May  2024]** I have been awarded the Graduate Special Scholarship and Outstanding Graduate Title.
 - **[Oct. 2024]** [PySDKit](https://github.com/wwhenxuan/PySDKit): We have developed and open-sourced the first integrated Python library for signal decomposition.
-
+- **[Sep. 2024]** I have been awarded the National Scholarship and School-level Outstanding Student Title.
 
 
 <!-- {% include_relative _includes/publications.md %} -->
@@ -33,7 +34,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 ## 🎖️ Honors & Awards
 
 - 2025 Outstanding Undergraduate Paper (the only one in the major, 60 in the whole school);
-- 2024-2025 Graduate Special Scholarship, Outstanding Graduate Model (First in Major, 1/165);
+- 2024-2025 Graduate Special Scholarship, Outstanding Graduate Title (First in Major, 1/165);
 - 2023-2024 National Scholarship, School-level Outstanding Student Title;
 - 2023-2024 [Xiaomi](https://gongyi.mi.com/foundation#/home) Scholarship: 5,000 RMB (Only one place available in the school of AI);
 - 2022-2023 First-class Scholarship, School-level Outstanding Student Title;
