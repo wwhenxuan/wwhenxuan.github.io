@@ -24,9 +24,9 @@ Subsequently, my research work will gradually transition from traditional TSA to
 - **[Sep. 2024]** I have been awarded the National Scholarship and School-level Outstanding Student Title.
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
-<!-- **Equal* *Contribution*, *#* *Corresponding* *Author* -->
+**Equal* *Contribution*, *#* *Corresponding* *Author*
 
 {% include_relative _includes/software.md %}
 
