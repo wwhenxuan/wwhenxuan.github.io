@@ -4,7 +4,7 @@ main:
     authors: <strong>Wenxuan Wang</strong>, Kai Wu#, Yujian Betterest Li, Dan Wang#, Xiaoyu Zhang
     conference_short: NeurIPS
     conference: Annual Conference on Neural Information Processing Systems, 2025.
-    image: ./assets/img/symtime.png
+    image: ./assets/img/symtime.jpg
     pdf: https://arxiv.org/abs/2502.15466
     code: https://github.com/wwhenxuan/S2Generator
 #    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
