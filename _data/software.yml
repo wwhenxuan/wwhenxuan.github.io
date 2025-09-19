@@ -13,7 +13,7 @@ main:
   - title: "S2Generator: A series-symbol (S2) dual-modality data generation mechanism"
     authors: <strong>wwhenxuan</strong>, johnfan12, changewam
     conference_short: Python
-    conference: A data generation mechanism enabling the unrestricted creation of high-quality time series data paired with corresponding symbolic representations.
+    conference: A data generation enabling the unrestricted creation of high-quality time series paired with corresponding symbolic representations.
     image: ./assets/img/s2generator.jpg
     pypi: https://pypi.org/project/PySDKit/
     code: https://github.com/wwhenxuan/S2generator
