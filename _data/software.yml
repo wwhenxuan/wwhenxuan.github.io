@@ -3,9 +3,19 @@ main:
   - title: "PySDKit: signal decomposition in Python"
     authors: <strong>wwhenxuan</strong>, changewam, josefinez, feng1m8
     conference_short: Python
-    conference: the first integrated Python library for signal decomposition, including EMD, EWT, VMD, STL, etc. ![](https://img.shields.io/github/stars/wwhenxuan/PySDKit)
-    image: ./assets/img/pysdkit.png
+    conference: the first integrated Python library for signal decomposition, including EMD, EWT, VMD, STL, etc.
+    image: ./assets/img/pysdkit.jpg
     pypi: https://pypi.org/project/PySDKit/
     code: https://github.com/wwhenxuan/PySDKit
     blog: https://mp.weixin.qq.com/s/zRP9bDh9bfcyETdzPxeqOQ
     notes: pip install pysdkit 
+
+  - title: "S2Generator: A series-symbol (S2) dual-modality data generation mechanism"
+    authors: <strong>wwhenxuan</strong>, johnfan12, changewam
+    conference_short: Python
+    conference: A data generation mechanism enabling the unrestricted creation of high-quality time series data paired with corresponding symbolic representations.
+    image: ./assets/img/s2generator.jpg
+    pypi: https://pypi.org/project/PySDKit/
+    code: https://github.com/wwhenxuan/S2generator
+    # blog: https://mp.weixin.qq.com/s/zRP9bDh9bfcyETdzPxeqOQ
+    notes: pip install s2generator
