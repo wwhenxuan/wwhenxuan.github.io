@@ -15,7 +15,7 @@ main:
     conference_short: Python
     conference: A data generation enabling the unrestricted creation of high-quality time series paired with corresponding symbolic representations.
     image: ./assets/img/s2generator.jpg
-    pypi: https://pypi.org/project/PySDKit/
+    pypi: https://pypi.org/project/S2generator/
     code: https://github.com/wwhenxuan/S2generator
     # blog: https://mp.weixin.qq.com/s/zRP9bDh9bfcyETdzPxeqOQ
     notes: pip install s2generator
