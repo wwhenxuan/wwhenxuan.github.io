@@ -38,7 +38,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 💡 Service
 
-- ICLR 2026 Reviewer
+- ICLR 2026 Reviewer;
 
 
 ## 🎖️ Honors & Awards
