@@ -66,7 +66,4 @@
 {% endfor %}
 
 </ol>
-
-**Equal* *Contribution*, *#* *Corresponding* *Author*
-
 </div>

@@ -30,6 +30,8 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 
 {% include_relative _includes/publications.md %}
+**Equal* *Contribution*, *#* *Corresponding* *Author*
+
 
 {% include_relative _includes/software.md %}
 
