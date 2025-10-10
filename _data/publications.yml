@@ -5,9 +5,9 @@ main:
     conference_short: NeurIPS
     conference: Annual Conference on Neural Information Processing Systems, 2025.
     image: ./assets/img/symtime.png
-    pdf: https://arxiv.org/abs/2502.15466
-    code: https://github.com/wwhenxuan/S2Generator
-    poster: ./assets/img/assets/files/poster_neurips_2025_115260_synthetic_series-symbol_data_generation.jpg
+    pdf: https://arxiv.org/abs/2510.08445
+    code: https://github.com/wwhenxuan/SymTime
+    poster: https://github.com/wwhenxuan/wwhenxuan.github.io/blob/main/assets/img/poster_neurips_2025_115260_synthetic_series-symbol_data_generation.jpg
 #    bibtex: https://
 #    blog: https://
     notes: NeurIPS, CCF A
