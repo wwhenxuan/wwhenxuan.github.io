@@ -54,7 +54,11 @@
         <br>
         {% endif %}
         {% if site.location %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.location }}</autocolor></a>
+        <a href="{{ site.location_link }}" rel="noopener"><autocolor>{{ site.location }}</autocolor></a>
+        <br>
+        {% endif %}
+        {% if site.organization %}
+        <a href="{{ site.organization_link }}" rel="noopener"><autocolor>{{ site.organization }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
