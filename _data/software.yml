@@ -1,6 +1,7 @@
 main:
 
   - title: "PySDKit: signal decomposition in Python"
+    link: https://github.com/wwhenxuan/PySDKit
     authors: <strong>wwhenxuan</strong>, changewam, josefinez, feng1m8, JacktheFowler
     conference_short: Python
     conference: The first integrated Python library for signal decomposition, including EMD, EWT, VMD, STL, etc.
