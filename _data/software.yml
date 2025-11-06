@@ -23,7 +23,7 @@ main:
   - title: "Channel-Attention"
     authors: <strong>wwhenxuan</strong>
     conference_short: Python
-    conference: A plug-and-play Channel Attention mechanism module implemented in PyTorch, including Squeeze-and-Excitation (SE) blocks, Spatial Attention blocks and Convolutional blocks Attention.
+    conference: A plug-and-play Channel Attention mechanism module implemented in PyTorch, including Squeeze-and-Excitation (SE) blocks and Spatial Attention blocks, etc..
     image: ./assets/img/channel-attention.jpg
     pypi: https://pypi.org/project/channel-attention/
     code: https://github.com/wwhenxuan/Channel-Attention
