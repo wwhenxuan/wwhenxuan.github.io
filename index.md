@@ -22,6 +22,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 🔥 News
 
+- **[Oct. 2025]** [Channel-Attention](https://github.com/Vortex-Artificial-Intelligence/Channel-Attention): We have developed a repository for plug-in-play channel attention mechanism in 1D time series and 2D image data.
 - **[Sep. 2025]** Our paper "**[*SymTime*](https://arxiv.org/abs/2502.15466)**: Synthetic Series-Symbol Data Generation for Time Series Foundation Models" has been accepted by **NeurIPS 2025**.
 - **[Jun. 2025]** My undergraduate thesis was rated as an outstanding thesis of Xidian University.
 - **[May  2024]** I have been awarded the Graduate Special Scholarship and Outstanding Graduate Title.
@@ -38,8 +39,10 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 💡 Service
 
-- AAAI 2026 Reviewer;
-- ICLR 2026 Reviewer;
+- NeurIPS (Annual Conference on Neural Information Processing Systems) 2025 Reviewer;
+- AAAI (Association for the Advancement of Artificial Intelligence) 2026 Reviewer;
+- ICLR (International Conference on Learning Representations) 2026 Reviewer;
+- Journal of Open Source Software (JOSS) Reviewer;
 
 
 ## 🎖️ Honors & Awards
