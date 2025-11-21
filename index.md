@@ -8,7 +8,7 @@ layout: homepage
 
 ## 👋 About Me
 
-I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in the School of Telecommunications Engineering (a member of the State Key Laboratory of Integrated Services Networks).
+I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in the School of Telecommunications Engineering (the State Key Laboratory of Integrated Services Networks).
 
 
 
