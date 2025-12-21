@@ -47,6 +47,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 🎖️ Honors & Awards
 
+- 2025 Xidian University Graduate Entrance Scholarship (First Class 10000 RMB);
 - 2025 Outstanding Undergraduate Paper (the only one in the major, 60 in the whole school);
 - 2024-2025 Graduate Special Scholarship, Outstanding Graduate Title (First in Major, 1/165);
 - 2023-2024 National Scholarship, School-level Outstanding Student Title;
