@@ -22,6 +22,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 🔥 News
 
+- **[Mar. 2026]** I have been granted Fundamental Research Funds for the Central Universities by the Innovation Fund of Xidian University (15K RMB).
 - **[Oct. 2025]** [Channel-Attention](https://github.com/Vortex-Artificial-Intelligence/Channel-Attention): We have developed a repository for plug-in-play channel attention mechanism in 1D time series and 2D image data.
 - **[Sep. 2025]** Our paper "**[*SymTime*](https://arxiv.org/abs/2502.15466)**: Synthetic Series-Symbol Data Generation for Time Series Foundation Models" has been accepted by **NeurIPS 2025**.
 - **[Jun. 2025]** My undergraduate thesis was rated as an outstanding thesis of Xidian University.
@@ -47,6 +48,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 🎖️ Honors & Awards
 
+- 2026 Fundamental Research Funds for the Central Universities by the Innovation Fund of Xidian University (15K RMB);
 - 2025 Xidian University Graduate Entrance Scholarship (First Class 10000 RMB);
 - 2025 Outstanding Undergraduate Paper (the only one in the major, 60 in the whole school);
 - 2024-2025 Graduate Special Scholarship, Outstanding Graduate Title (First in Major, 1/165);
