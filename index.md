@@ -42,7 +42,9 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 - NeurIPS (Annual Conference on Neural Information Processing Systems) 2025, 2026 Reviewer;
 - AAAI (Association for the Advancement of Artificial Intelligence) 2026 Reviewer;
-- ICLR (International Conference on Learning Representations) 2026 Reviewer;
+- ICLR (International Conference on Learning Representations) 2026, 2027 Reviewer;
+- MSSP (Mechanical Systems and Signal Processing) Reviewer;
+- (SCIS) Science China Information Sciences Reviewer;
 - Journal of Open Source Software (JOSS) Reviewer;
 
 
