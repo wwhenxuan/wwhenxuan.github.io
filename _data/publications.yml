@@ -11,3 +11,11 @@ main:
     blog: https://mp.weixin.qq.com/s/D6O5SBl2RYHdkiinV6UM8w
     video: https://www.bilibili.com/video/BV1RT4QzXECt/?spm_id_from=333.337.search-card.all.click
     notes: NeurIPS, CCF A
+
+  - title: "LiteSpecFormer: a lightweight pretrained foundation model for zero-shot spectrum prediction"
+    authors: <strong>Wenxuan Wang</strong>, Dan Wang#, Bin Song
+    conference_short: SCIS
+    conference: Science China Information Sciences
+    image: ./assets/img/litespecformer.png
+    code: https://github.com/FlowVortex/LiteSpAecFormer
+    notes: SCIS, CCF A
