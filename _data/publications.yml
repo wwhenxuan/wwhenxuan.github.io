@@ -19,3 +19,12 @@ main:
     image: ./assets/img/LiteSpecFormer.png
     code: https://github.com/FlowVortex/LiteSpAecFormer
     notes: SCIS, CCF A
+
+  - title: "PHM-LLM: A Cross-modal Pre-trained LLM for Bearing Fault Diagnosis and Remaining Useful Life Prediction"
+    authors: <strong>Wenxuan Wang</strong>, Dan Wang#, Ruizhe Wang, Bin Song#
+    conference_short: Neurocomputing
+    conference: Neurocomputing
+    image: ./assets/img/PHM-LLM.png
+    pdf: https://www.sciencedirect.com/science/article/pii/S0925231226029498?dgcid=coauthor
+    code: https://github.com/FlowVortex/PHM-LLM
+    notes: Neurocomputing, SCI II
