@@ -16,6 +16,6 @@ main:
     authors: <strong>Wenxuan Wang</strong>, Dan Wang#, Bin Song
     conference_short: SCIS
     conference: Science China Information Sciences
-    image: ./assets/img/litespecformer.png
+    image: ./assets/img/LiteSpecFormer.png
     code: https://github.com/FlowVortex/LiteSpAecFormer
     notes: SCIS, CCF A
