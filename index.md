@@ -22,6 +22,8 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 🔥 News
 
+- **[Nov. 2026]** Our paper "LiteSpecFormer: a lightweight pretrained foundation model for zero-shot spectrum prediction" has been accepted by **SCIS**.
+- **[Oct. 2026]** Our paper "[PHM-LLM](10.1016/j.neucom.2026.135551): A cross-modal pre-trained LLM for bearing fault diagnosis and remaining useful life prediction" has been accepted by **Neurocomputing**.
 - **[Mar. 2026]** I have been granted Fundamental Research Funds for the Central Universities by the Innovation Fund of Xidian University (15K RMB).
 - **[Oct. 2025]** [Channel-Attention](https://github.com/Vortex-Artificial-Intelligence/Channel-Attention): We have developed a repository for plug-in-play channel attention mechanism in 1D time series and 2D image data.
 - **[Sep. 2025]** Our paper "**[*SymTime*](https://arxiv.org/abs/2502.15466)**: Synthetic Series-Symbol Data Generation for Time Series Foundation Models" has been accepted by **NeurIPS 2025**.
