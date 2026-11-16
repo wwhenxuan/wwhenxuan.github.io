@@ -48,6 +48,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 - MSSP (Mechanical Systems and Signal Processing) Reviewer;
 - SCIS (Science China Information Sciences) Reviewer;
 - JOSS (Journal of Open Source Software) Reviewer;
+- Neurocomputing Reviewer;
 
 
 ## 🎖️ Honors & Awards
