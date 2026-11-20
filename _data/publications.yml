@@ -13,7 +13,7 @@ main:
     notes: NeurIPS, CCF A
 
   - title: "LiteSpecFormer: a lightweight pretrained foundation model for zero-shot spectrum prediction"
-    authors: <strong>Wenxuan Wang</strong>, Dan Wang#, Bin Song
+    authors: <strong>Wenxuan Wang</strong>, Dan Wang#, Bin Song, F. Richard Yu
     conference_short: SCIS
     conference: Science China Information Sciences
     image: ./assets/img/LiteSpecFormer.png
