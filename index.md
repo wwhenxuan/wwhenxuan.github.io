@@ -53,6 +53,7 @@ Subsequently, my research work will gradually transition from traditional TSA to
 
 ## 🎖️ Honors & Awards
 
+- 2025-2026 Xidian University First-Class Postgraduate Scholarship and Outstanding Postgraduate Award;
 - 2026 Fundamental Research Funds for the Central Universities by the Innovation Fund of Xidian University (15K RMB);
 - 2025 Xidian University Graduate Entrance Scholarship (First Class 10000 RMB);
 - 2025 Outstanding Undergraduate Paper (the only one in the major, 60 in the whole school);
